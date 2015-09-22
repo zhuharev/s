@@ -1,0 +1,7 @@
+[web]
+port=4344
+http
+endpoint=/s/
+[database]
+;todo
+datadir=".data"
