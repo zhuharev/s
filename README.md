@@ -25,3 +25,7 @@ srv, e := shortener.New("cnf")
 		panic(e)
 	}
 ```
+
+## todo
+
+- [ ] add lookup urls
